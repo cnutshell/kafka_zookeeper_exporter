@@ -87,4 +87,4 @@ ways to configure it.
 # My Personal Comments
 
 - *This project try to fetch the Kafka metadata that lives in Zookeeper, then expose these metetada as prometheus metrics.*
-- [kazoo-go](github.com/wvanbergen/kazoo-go) is adopted in order to fetch Kafka metadata, 
+- *[kazoo-go](github.com/wvanbergen/kazoo-go) is adopted in order to fetch Kafka metadata.*
